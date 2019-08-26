@@ -41,4 +41,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # anniegwong's First CS193 Homework
 - coding is cool
 - i can't get a d in this class
-- i really like bulleted lists
+- i REALLY like bulleted lists
